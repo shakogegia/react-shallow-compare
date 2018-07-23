@@ -1,5 +1,5 @@
 {
-  "name": "shallowcompare",
+  "name": "react-shallow-compare",
   "version": "1.0.0",
   "description": "Shallow Compare props for react",
   "keywords": ["react", "reactjs", "shallow-equal", "shallow-compare", "shallow-compare-immutable"],
@@ -15,7 +15,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakogegia/shallowcompare"
+    "url": "https://github.com/shakogegia/react-shallow-compare"
   },
   "dependencies": {
     "lodash": "^4.17.10"
