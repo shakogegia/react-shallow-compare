@@ -18,7 +18,7 @@ import
 
 ```js
 import { shouldUpdate } from recompose
-import { shallowCompare, shallowCompareOnly, shallowCompareExclude } from shallowcompare
+import { shallowCompare, shallowCompareOnly, shallowCompareExclude } from 'react-shallow-compare'
 ```
 
 you can choose 3 methods
@@ -45,7 +45,7 @@ you can also you it without `recompose`
 
 ```jsx
 
-import { shallowCompare } from shallowcompare
+import { shallowCompare } from 'react-shallow-compare'
 
 
 class MyComponent extends React.Component {
