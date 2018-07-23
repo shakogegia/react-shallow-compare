@@ -5,11 +5,11 @@ you can use it with recompose
 
 install
 ```
-npm i shallowcompare
+npm i react-shallow-compare --save
 ```
 or 
 ```
-yarn add shallowcompare
+yarn add react-shallow-compare
 ```
 
 ### Usage
