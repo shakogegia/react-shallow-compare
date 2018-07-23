@@ -1,6 +1,6 @@
 {
   "name": "react-shallow-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shallow Compare props for react",
   "keywords": ["react", "reactjs", "shallow-equal", "shallow-compare", "shallow-compare-immutable"],
   "main": "index.js",
